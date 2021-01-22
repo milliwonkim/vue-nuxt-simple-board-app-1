@@ -1,0 +1,20 @@
+{
+  "name": "nuxt_practice",
+  "version": "1.0.0",
+  "description": "nuxt app",
+  "author": "kiwonkim",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "nuxt": "^1.0.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1"
+  }
+}
